@@ -1,1 +1,0 @@
-# PowerShell-Script-of-Cluster-Shutdown
